@@ -1,4 +1,5 @@
-import qrcode 
+import qrcode // importing qr code
+
 
 
 link = input("Enter your website link : https://")
